@@ -1,7 +1,7 @@
 let Emc = require("./Emc");
 let questions = require("./questions");
-
-let emc = new Emc("localhost", "root", "zm650701", "employee_db");
+//location, user, password, dbName
+let emc = new Emc("", "", "", "");
 let connectionStatus = emc.emcConnect();
 
 async function main() {

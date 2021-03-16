@@ -26,7 +26,10 @@ before run node main.js, please change database setting at line4 from main.js
 
     
 ## Contrubution
+Qianli Ma
 
+## Tests
+testing vedio:
 
 ## License
 ![License](https://img.shields.io/badge/License-null%202.0-blue.svg)
